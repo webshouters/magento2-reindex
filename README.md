@@ -15,6 +15,16 @@ After installing the extension, Login to your `Magento Admin Panel` => `System` 
 
 In this section choose "ReIndex Data" from actions drodown list.
 
+## Installation
+
+Run the following commands:
+
+```bash
+composer require webshouters/magento2-reindex
+bin/magento module:enable Wbs_Reindexer
+bin/magento setup:upgrade
+bin/magento cache:flush 
+```
 ___________________________________________________________________________________________________
 
 More articles and tutorials about Magento 2 visit:
