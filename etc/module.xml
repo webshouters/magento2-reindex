@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   WBS
+ * @package    Wbs_Reindexer
+ * @author     WebShouters Team
+ * @copyright  Copyright (c) 2017-2018 WebShouters. ( https://www.webshouters.com )
+ * @license    https://www.webshouters.com//Wbs-Commerce-License.txt
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+    <module name="Wbs_Reindexer" setup_version="1.0.0"/>
+</config>

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * @category   WBS
+ * @package    Wbs_Reindexer
+ * @author     WebShouters Team
+ * @copyright  Copyright (c) 2017-2018 WebShouters. ( https://www.webshouters.com )
+ * @license    https://www.webshouters.com//Wbs-Commerce-License.txt
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Acl/etc/acl.xsd">
+    <acl>
+        <resources>
+            <resource id="Magento_Backend::admin">
+                <resource id="Magento_Backend::system">
+                    <resource id="Magento_Backend::tools">
+                        <resource id="Wbs_Reindexer::reindexdata" title="Wbs Reindex Data" translate="title" sortOrder="50" />
+                    </resource>
+                </resource>
+            </resource>
+        </resources>
+    </acl>
+</config>
