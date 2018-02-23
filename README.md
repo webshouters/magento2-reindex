@@ -39,7 +39,7 @@ https://www.webshouters.com/topics/magento
 
 ___________________________________________________________________________________________________
 
-### Donate using Paypal
+### Donate Via PayPal
 
 <a href='https://www.paypal.com/' target='_blank'><img height='120' style='border:0px;height:120px;' src='https://image.ibb.co/kT7JFx/btn_donation_paypal_2x_167.png' border='0' alt='Donate at paypal.com' /></a>
 
