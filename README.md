@@ -37,7 +37,6 @@ https://www.webshouters.com/topics/magento
 #### Installation: $ 30
 #### Support: $ 50 /per month
 
-___________________________________________________________________________________________________
 ### Donate using Paypal
 
 <a href='https://www.paypal.com/' target='_blank'><img height='120' style='border:0px;height:120px;' src='https://image.ibb.co/kT7JFx/btn_donation_paypal_2x_167.png' border='0' alt='Donate at paypal.com' /></a>
