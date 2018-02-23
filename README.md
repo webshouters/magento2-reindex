@@ -9,11 +9,6 @@
 3. Fast Indexing
 
 ___________________________________________________________________________________________________
-## Usage
-
-After installing the extension, Login to your `Magento Admin Panel` => `System` => `Tools` => `Index Management`
-
-In this section choose "ReIndex Data" from actions drodown list.
 
 ## Installation
 
@@ -25,6 +20,15 @@ bin/magento module:enable Wbs_Reindexer
 bin/magento setup:upgrade
 bin/magento cache:flush 
 ```
+
+___________________________________________________________________________________________________
+
+## Usage
+
+After installing the extension, Login to your `Magento Admin Panel` => `System` => `Tools` => `Index Management`
+
+In this section choose "ReIndex Data" from actions drodown list.
+
 ___________________________________________________________________________________________________
 
 More articles and tutorials about Magento 2 visit:
