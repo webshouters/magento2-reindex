@@ -8,8 +8,6 @@
 2. Simple reindex data from admin
 3. Fast Indexing
 
-___________________________________________________________________________________________________
-
 ## Installation
 
 Run the following commands:
@@ -20,8 +18,6 @@ bin/magento module:enable Wbs_Reindexer
 bin/magento setup:upgrade
 bin/magento cache:flush 
 ```
-
-___________________________________________________________________________________________________
 
 ## Usage
 
