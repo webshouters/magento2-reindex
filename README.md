@@ -29,7 +29,7 @@ ________________________________________________________________________________
 
 More articles and tutorials about Magento 2 visit:
 
-https://www.webshouters.com/topics/magento
+https://www.webshouters.in/
 
 ### The extension is free and always will be
 
@@ -41,7 +41,7 @@ ________________________________________________________________________________
 
 ### Donate Via PayPal
 
-<a href='https://www.paypal.com/' target='_blank'><img height='120' style='border:0px;height:120px;' src='https://image.ibb.co/kT7JFx/btn_donation_paypal_2x_167.png' border='0' alt='Donate at paypal.com' /></a>
+<a href='#' target='_blank'><img height='120' style='border:0px;height:120px;' src='https://image.ibb.co/kT7JFx/btn_donation_paypal_2x_167.png' border='0' alt='Donate at paypal.com' /></a>
 
 ___________________________________________________________________________________________________
-### Feedback and Support <a href="mailto:support@webshouters.com">support@webshouters.com</a>
+### Feedback and Support <a href="mailto:support@webshouters.in">support@webshouters.in</a>
